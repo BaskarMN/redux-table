@@ -8,7 +8,7 @@ function App() {
   return (
     <Provider store={store}>
     <div className="App-header">
-      <h3>Redux Data Fetch and Display</h3>
+      <h3>Redux Data Fetch and CRUD </h3>
       <Content />
     </div>
     </Provider>
